@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "https://zmtjm54ep60bwydzziizvw.on.drv.tw/www.albertpay.com/rooz-temp/build/static/css/main.aff05c72.css",
+    "main.js": "https://zmtjm54ep60bwydzziizvw.on.drv.tw/www.albertpay.com/rooz-temp/build/static/js/main.0103ee45.js",
+    "index.html": "https://zmtjm54ep60bwydzziizvw.on.drv.tw/www.albertpay.com/rooz-temp/build/index.html",
+    "main.aff05c72.css.map": "https://zmtjm54ep60bwydzziizvw.on.drv.tw/www.albertpay.com/rooz-temp/build/static/css/main.aff05c72.css.map",
+    "main.0103ee45.js.map": "https://zmtjm54ep60bwydzziizvw.on.drv.tw/www.albertpay.com/rooz-temp/build/static/js/main.0103ee45.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.aff05c72.css",
+    "static/js/main.0103ee45.js"
+  ]
+}
